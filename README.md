@@ -1,1 +1,1 @@
-# Artificial-Intelligence-A-Z---Course
+# Artificial-Intelligence-A-Z
